@@ -37,7 +37,7 @@ Required to calculate the alignment of the trajectory with the ground truth. **R
 
 Clone the repository:
 ```
-git clone https://github.com/UZ-SLAMLab/ORB_SLAM3.git ORB_SLAM3
+git clone https://github.com/fthbng77/ORB_SLAM3.git ORB_SLAM3
 ```
 
 We provide a script `build.sh` to build the *Thirdparty* libraries and *ORB-SLAM3*. Please make sure you have installed all required dependencies (see section 2). Execute:
